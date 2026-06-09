@@ -135,7 +135,7 @@ Movie-Recommender/
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Piyush Data
 
 ---
 
