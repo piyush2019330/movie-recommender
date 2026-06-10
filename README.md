@@ -65,15 +65,13 @@ It recommends movies to users based on similarity and user preferences using con
 
 ---
 
-## 📊 Example Output
 
-(Add screenshot here)
 
-```md
-![App Screenshot](images/app.png)
-```
+<img width="1910" height="1246" alt="img1" src="https://github.com/user-attachments/assets/3a40ca65-e6ed-4416-9ea0-3658eee54d8c" />
+<img width="1984" height="1508" alt="img2" src="https://github.com/user-attachments/assets/6b04d913-68ef-471a-9006-11770ebb50f6" />
 
----
+
+
 
 ## 💡 How It Works
 
